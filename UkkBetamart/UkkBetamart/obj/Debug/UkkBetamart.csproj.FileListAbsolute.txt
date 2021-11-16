@@ -1,0 +1,12 @@
+D:\source\UkkBetamart\UkkBetamart\bin\Debug\dbukk.accdb
+D:\source\UkkBetamart\UkkBetamart\bin\Debug\UkkBetamart.exe.config
+D:\source\UkkBetamart\UkkBetamart\bin\Debug\UkkBetamart.exe
+D:\source\UkkBetamart\UkkBetamart\bin\Debug\UkkBetamart.pdb
+D:\source\UkkBetamart\UkkBetamart\obj\Debug\UkkBetamart.csproj.AssemblyReference.cache
+D:\source\UkkBetamart\UkkBetamart\obj\Debug\UkkBetamart.csproj.SuggestedBindingRedirects.cache
+D:\source\UkkBetamart\UkkBetamart\obj\Debug\UkkBetamart.Form1.resources
+D:\source\UkkBetamart\UkkBetamart\obj\Debug\UkkBetamart.Properties.Resources.resources
+D:\source\UkkBetamart\UkkBetamart\obj\Debug\UkkBetamart.csproj.GenerateResource.cache
+D:\source\UkkBetamart\UkkBetamart\obj\Debug\UkkBetamart.csproj.CoreCompileInputs.cache
+D:\source\UkkBetamart\UkkBetamart\obj\Debug\UkkBetamart.exe
+D:\source\UkkBetamart\UkkBetamart\obj\Debug\UkkBetamart.pdb
